@@ -1,6 +1,7 @@
 ---
 draft: "false"
+title: The Book of Rats
 ---
-[[Book Rats - Page 1]]
-[[Book Rats - Page 2]]
-[[Book Rats - Page 3]]
+Dit is een voorbeeld pagina om het concept van links en afbeeldingen te tonen.
+***
+![[Rat 1]]
